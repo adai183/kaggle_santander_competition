@@ -11,6 +11,6 @@ Download the testing and training data from kaggle and put them in the project f
 Please add your code in recomms.py.
 
 ##Todo:
-[] **Data Exploration**
-    [] create panda dataframe with dtypes that make sense
-[]**Feature Engineering**
+* [ ] **Data Exploration**
+    * [ ] create panda dataframe with dtypes that make sense
+* [ ] **Feature Engineering**
